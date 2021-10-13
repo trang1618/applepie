@@ -4,6 +4,10 @@
 # applepie
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/trang1618/applepie/workflows/R-CMD-check/badge.svg)](https://github.com/trang1618/applepie/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/trang1618/applepie/branch/main/graph/badge.svg)](https://codecov.io/gh/trang1618/applepie?branch=main)
 <!-- badges: end -->
 
 The goal of applepie is to access R-universe API from R, for a tutorial.
